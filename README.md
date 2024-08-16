@@ -1,4 +1,4 @@
-# Flutter booking management dashboard
+# Flutter Manage Booking System dashboard
 
 ### Show some  <img src="https://github.githubassets.com/images/icons/emoji/unicode/2764.png" width="30" height="30" />   and star the repo to support the project
 
