@@ -40,7 +40,6 @@
 <br />
 <br />
 <img src="https://user-images.githubusercontent.com/10207753/84770526-2589fa00-aff1-11ea-83bf-f1255b9371ac.jpg" width="50" height="30" />
-<a href="https://youtu.be/viOcfjqIF-s">Watch Flutter Booking Management Dashboard- Responsive complete video </a>
 </p>
 <br />
 
@@ -65,6 +64,3 @@ Then
 ``flutter create xyz_project_name``
  <br />
 
-### Created & Maintained By
-
-[@AmirKhan](https://github.com/amirk3321) , Youtube : [@eTechViral](https://www.youtube.com/channel/UCO6gMNHYhRqyzbskNh4gG_A) , Twitter  : [@AmirKhan](https://twitter.com/__Meer___)
